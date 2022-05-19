@@ -64,6 +64,35 @@ Legislative District Central Committee:
 
 Record minutes, Secretary send full minutes to LPID Exec Board and to all PC's in the County/LD. Once that is done, the Chairs, State Committeemen, and State Committeewomen, each as individuals hold a seat on the State Central Committee (no duplicate votes on SCC for holding multiple positions). This is where the fun begins.
 
+Example Minutes for solo CCC meeting - remove Committeeman and vacant seats section for LD
+
+XX:XX Call to Order
+XX:XX Roll Call
+	FIRST LAST Present
+XX:XX Adoption of Agenda
+	FIRST LAST proposes agenda:
+		(Insert CCC agenda)
+XX:XX Votes to adopt agenda:
+	Aye: FIRST LAST
+	Nay: None
+	Agenda is adopted
+	
+for each office (chair, vice-chair, secretary, state committeeman, state committeewoman, vacant PC):
+XX:XX OFFICE election begins
+	FIRST LAST nominates FIRST LAST for OFFICE
+XX:XX Nominations closed
+XX:XX Balloted vote for OFFICE
+XX:XX Results of balloted vote:
+	FIRST LAST: 1
+	NOTA: 0
+	FIRST LAST is elected as OFFICE.
+	
+XX:XX FIRST LAST moves to adjourn
+XX:XX Vote to adjourn:
+	Aye: 1
+	Nay: 0
+XX:XX Meeting is adjourned
+
 Additional note: County Central Committee chairs will have a duty at the end of January, as prescribed by Idaho Code ยง 34-502:
 The county clerk shall deliver in writing to the chairman of the county central committee of each political party on or before January 20 of each year in which a general election is to be held, a list of the election precincts in the county and the names and addresses of the precinct committeemen who were elected at the last primary election, or who have since been appointed as precinct committeemen, as such election or appointment is shown on the records of the county clerk. If the county clerk has no record of precinct committeemen, he shall in writing, so inform the chairman of the county central committee.
 The chairman of the county central committee shall on or before February 1 of each year in which a general election is to be held, and at such other times as changes occur, certify to the county clerk the names and addresses of the precinct committeemen of his political party.
