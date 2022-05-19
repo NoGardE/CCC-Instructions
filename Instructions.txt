@@ -69,6 +69,7 @@ Example Minutes for solo CCC meeting - remove Committeeman and vacant seats sect
 XX:XX Call to Order
 XX:XX Roll Call
 	FIRST LAST Present
+	All members are present. Quorum is 1, Majority is 1, and 2/3 is 1.
 XX:XX Adoption of Agenda
 	FIRST LAST proposes agenda:
 		(Insert CCC agenda)
